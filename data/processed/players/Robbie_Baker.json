@@ -1,0 +1,18 @@
+{
+  "Player": "Robbie Baker",
+  "SwingCount": 8,
+  "BatSpeed": 57.1,
+  "EarlyConnection": 115.875,
+  "ConnectionScore": 44.0,
+  "RotationScore": 53.6,
+  "PlaneScore": 52.1,
+  "EC Variance": 9.8,
+  "EarlyConnectionAngle": 115.9,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": 5.24,
+  "bat_speed_tier": "Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Flagged",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}

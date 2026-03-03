@@ -1,0 +1,18 @@
+{
+  "Player": "Luke Halicki",
+  "SwingCount": 7,
+  "BatSpeed": 40.9,
+  "EarlyConnection": 109.14285714285714,
+  "ConnectionScore": 47.3,
+  "RotationScore": 50.6,
+  "PlaneScore": 62.4,
+  "EC Variance": 10.0,
+  "EarlyConnectionAngle": 109.1,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": -10.96,
+  "bat_speed_tier": "Below Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Flagged",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}

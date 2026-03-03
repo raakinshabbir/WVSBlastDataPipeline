@@ -1,0 +1,18 @@
+{
+  "Player": "Braden lawson",
+  "SwingCount": 8,
+  "BatSpeed": 63.3,
+  "EarlyConnection": 106.625,
+  "ConnectionScore": 52.2,
+  "RotationScore": 45.0,
+  "PlaneScore": 40.1,
+  "EC Variance": 8.1,
+  "EarlyConnectionAngle": 106.6,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": 11.44,
+  "bat_speed_tier": "Above Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Elevated",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}

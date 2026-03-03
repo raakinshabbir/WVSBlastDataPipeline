@@ -1,0 +1,18 @@
+{
+  "Player": "Bradon Badder",
+  "SwingCount": 6,
+  "BatSpeed": 51.6,
+  "EarlyConnection": 113.83333333333333,
+  "ConnectionScore": 48.8,
+  "RotationScore": 30.5,
+  "PlaneScore": 36.0,
+  "EC Variance": 26.8,
+  "EarlyConnectionAngle": 113.8,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": -0.26,
+  "bat_speed_tier": "Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Flagged",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}

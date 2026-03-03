@@ -1,0 +1,18 @@
+{
+  "Player": "Liam Owen",
+  "SwingCount": 6,
+  "BatSpeed": 42.1,
+  "EarlyConnection": 100.5,
+  "ConnectionScore": 63.2,
+  "RotationScore": 40.8,
+  "PlaneScore": 58.0,
+  "EC Variance": 12.1,
+  "EarlyConnectionAngle": 100.5,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": -9.76,
+  "bat_speed_tier": "Below Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Flagged",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}

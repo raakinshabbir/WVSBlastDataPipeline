@@ -1,0 +1,18 @@
+{
+  "Player": "Shylo Mahood",
+  "SwingCount": 6,
+  "BatSpeed": 45.0,
+  "EarlyConnection": 86.33333333333333,
+  "ConnectionScore": 68.8,
+  "RotationScore": 35.5,
+  "PlaneScore": 70.7,
+  "EC Variance": 5.2,
+  "EarlyConnectionAngle": 86.3,
+  "bucket": "bat speed lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": -6.86,
+  "bat_speed_tier": "Below Average",
+  "ec_angle_status": "Ideal",
+  "ecv_tier": "Good",
+  "bucket_label": "BAT SPEED \u2014 Priority"
+}

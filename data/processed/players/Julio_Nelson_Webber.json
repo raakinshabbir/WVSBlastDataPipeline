@@ -1,0 +1,18 @@
+{
+  "Player": "Julio Nelson Webber",
+  "SwingCount": 8,
+  "BatSpeed": 62.3,
+  "EarlyConnection": 73.875,
+  "ConnectionScore": 39.9,
+  "RotationScore": 58.1,
+  "PlaneScore": 74.5,
+  "EC Variance": 7.7,
+  "EarlyConnectionAngle": 73.9,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": 10.44,
+  "bat_speed_tier": "Above Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Elevated",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}

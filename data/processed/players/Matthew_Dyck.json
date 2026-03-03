@@ -1,0 +1,18 @@
+{
+  "Player": "Matthew Dyck",
+  "SwingCount": 6,
+  "BatSpeed": 43.9,
+  "EarlyConnection": 95.5,
+  "ConnectionScore": 69.8,
+  "RotationScore": 35.2,
+  "PlaneScore": 59.7,
+  "EC Variance": 4.5,
+  "EarlyConnectionAngle": 95.5,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": -7.96,
+  "bat_speed_tier": "Below Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Elite",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}

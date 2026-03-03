@@ -1,0 +1,15 @@
+Player,SwingCount,BatSpeed,EarlyConnection,ConnectionScore,RotationScore,PlaneScore,EC Variance,EarlyConnectionAngle,bucket,bat_speed_lg_avg,bat_speed_diff,bat_speed_tier,ec_angle_status,ecv_tier,bucket_label
+Braden lawson,8,63.3,106.625,52.2,45.0,40.1,8.1,106.6,launch pos lv1,51.86,11.44,Above Average,Outside Range,Elevated,LAUNCH POSITION — Priority
+Bradon Badder,6,51.6,113.83333333333333,48.8,30.5,36.0,26.8,113.8,launch pos lv1,51.86,-0.26,Average,Outside Range,Flagged,LAUNCH POSITION — Priority
+Cash Kleeman,8,50.8,109.375,40.9,35.5,60.2,18.5,109.4,launch pos lv1,51.86,-1.06,Average,Outside Range,Flagged,LAUNCH POSITION — Priority
+Julio Nelson Webber,8,62.3,73.875,39.9,58.1,74.5,7.7,73.9,launch pos lv1,51.86,10.44,Above Average,Outside Range,Elevated,LAUNCH POSITION — Priority
+Liam Owen,6,42.1,100.5,63.2,40.8,58.0,12.1,100.5,launch pos lv1,51.86,-9.76,Below Average,Outside Range,Flagged,LAUNCH POSITION — Priority
+Logan Hughes,6,48.1,88.16666666666667,66.5,32.8,60.8,9.8,88.2,launch pos lv1,51.86,-3.76,Average,Ideal,Flagged,LAUNCH POSITION — Priority
+Luke Halicki,7,40.9,109.14285714285714,47.3,50.6,62.4,10.0,109.1,launch pos lv1,51.86,-10.96,Below Average,Outside Range,Flagged,LAUNCH POSITION — Priority
+Luke Pipkey,7,57.2,94.57142857142857,66.4,37.1,59.7,11.1,94.6,launch pos lv1,51.86,5.34,Average,Outside Range,Flagged,LAUNCH POSITION — Priority
+Matthew Dyck,6,43.9,95.5,69.8,35.2,59.7,4.5,95.5,launch pos lv1,51.86,-7.96,Below Average,Outside Range,Elite,LAUNCH POSITION — Priority
+Reid Pelly,7,51.5,81.71428571428571,53.9,37.9,62.9,8.2,81.7,launch pos lv1,51.86,-0.36,Average,Outside Range,Elevated,LAUNCH POSITION — Priority
+Robbie Baker,8,57.1,115.875,44.0,53.6,52.1,9.8,115.9,launch pos lv1,51.86,5.24,Average,Outside Range,Flagged,LAUNCH POSITION — Priority
+Saje Paul,4,60.2,85.0,53.5,45.0,45.5,5.9,85.0,launch pos lv1,51.86,8.34,Above Average,Outside Range,Good,LAUNCH POSITION — Priority
+Shylo Mahood,6,45.0,86.33333333333333,68.8,35.5,70.7,5.2,86.3,bat speed lv1,51.86,-6.86,Below Average,Ideal,Good,BAT SPEED — Priority
+Stellan Currie,6,52.0,123.5,40.7,38.2,42.5,15.6,123.5,launch pos lv1,51.86,0.14,Average,Outside Range,Flagged,LAUNCH POSITION — Priority

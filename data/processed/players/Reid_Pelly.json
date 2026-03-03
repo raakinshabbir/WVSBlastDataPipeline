@@ -1,0 +1,18 @@
+{
+  "Player": "Reid Pelly",
+  "SwingCount": 7,
+  "BatSpeed": 51.5,
+  "EarlyConnection": 81.71428571428571,
+  "ConnectionScore": 53.9,
+  "RotationScore": 37.9,
+  "PlaneScore": 62.9,
+  "EC Variance": 8.2,
+  "EarlyConnectionAngle": 81.7,
+  "bucket": "launch pos lv1",
+  "bat_speed_lg_avg": 51.86,
+  "bat_speed_diff": -0.36,
+  "bat_speed_tier": "Average",
+  "ec_angle_status": "Outside Range",
+  "ecv_tier": "Elevated",
+  "bucket_label": "LAUNCH POSITION \u2014 Priority"
+}
