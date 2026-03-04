@@ -55,10 +55,10 @@ def compute_benchmarks(players):
         "low_bat_speed":  round(avg_bat_speed - 0.75 * sd_bat_speed, 2),  # concern threshold
     }
 
-    print(f"\nBenchmarks:")
-    print(f"  Avg bat speed:  {benchmarks['avg_bat_speed']} mph")
-    print(f"  Elite threshold: {benchmarks['high_bat_speed']} mph")
-    print(f"  Concern threshold: {benchmarks['low_bat_speed']} mph")
+   # print(f"\nBenchmarks:")
+  #  print(f"  Avg bat speed:  {benchmarks['avg_bat_speed']} mph")
+  #  print(f"  Elite threshold: {benchmarks['high_bat_speed']} mph")
+  #  print(f"  Concern threshold: {benchmarks['low_bat_speed']} mph")
 
     return benchmarks
 
@@ -116,4 +116,4 @@ def assign_bucket(row, bm):
     return "undefined"
 
 players["bucket"] = players.apply(assign_bucket, axis=1, bm=benchmarks)
-print(players[["Player", "BatSpeed", "EarlyConnectionAngle", "EC Variance", "bucket"]])
+print(players[["Player", "bucket"]])
